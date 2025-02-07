@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Dev Environment:
+Android Studio
+install Android SDK tools
+then run `~/Library/Android/sdk/emulator/emulator -list-avds`    #lists environments. default is Medium_Phone_API_35
+to run emulater run: `/Library/Android/sdk/emulator/emulator -avd Medium_Phone_API_35`
